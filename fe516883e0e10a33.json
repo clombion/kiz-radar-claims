@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:celine+davidpacavira",
+  "c:celine+pacavira"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "David Pacavira & Celine / Pacavira & Celine: spelling variant (suggested by Claude)"
+}

@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:michel@aga+michel",
+  "p:michel@dance"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Michel / Michel: rule confirmed by Cédric: solo record is the same person as in the couple (same name, same stated country, no clash)"
+}

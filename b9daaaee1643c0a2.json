@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:sara+valr",
+  "c:sarah+valyr"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Val’r & Sarah / Valyr y Sarah: spelling variant (suggested by Claude)"
+}

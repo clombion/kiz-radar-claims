@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:dex+lau",
+  "c:dex+law"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Dex & Law / Dex & Lau: confirmed by Cédric: Lau is Law"
+}

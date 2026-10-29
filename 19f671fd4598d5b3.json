@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:eddie+rita",
+  "c:eddy+rita"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Rita & Eddy / Eddie & Rita: spelling variant (suggested by Claude)"
+}

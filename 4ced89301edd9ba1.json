@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:tomasia@alvaro+tomasia",
+  "p:tomasina@alvaro+tomasina"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Same partner Alvaro; Tomásia / Tomasina is a spelling variant of the same partner (same rule as David / Davide)"
+}

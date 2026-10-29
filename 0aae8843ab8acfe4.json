@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:eva@chris+eva",
+  "p:eva@dance"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Eva / Eva: rule confirmed by Cédric: solo record is the same person as in the couple (same name, same stated country, no clash)"
+}

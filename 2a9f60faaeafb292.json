@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:akram+sara",
+  "c:akran+sara"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Akram & Sara / Akran & Sara: spelling variant (suggested by Claude)"
+}

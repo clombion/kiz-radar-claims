@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:melodie+tonypirata",
+  "c:melody+tonypirata"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "TONY PIRATA & MELODIE / TONY PIRATA & MELODY: spelling variant (suggested by Claude)"
+}

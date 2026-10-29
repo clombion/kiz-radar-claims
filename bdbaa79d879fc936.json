@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:chrysoula+joanna",
+  "c:chryssoula+joana"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Joana & Chryssoula / Chrysoula and Joanna: spelling variant (suggested by Claude)"
+}

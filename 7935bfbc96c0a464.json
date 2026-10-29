@@ -1,0 +1,8 @@
+{
+ "field": "site",
+ "host": "www.tickettailor.com",
+ "instead_of": "recipe",
+ "then": "nothing",
+ "made_at": "2026-10-26T00:00:00+00:00",
+ "note": "its pages answer with a check that a visitor is human, which is not to be bypassed (decided by user)"
+}

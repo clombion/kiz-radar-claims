@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:jenni+jojo",
+  "c:jenny+jojo"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Jojo & Jenny / Jojo & Jenni: spelling variant (suggested by Claude)"
+}

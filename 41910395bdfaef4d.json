@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:caarl+pati",
+  "c:mrcaarl+patii"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Caarl & Patii / Mr. Caarl & Patii: spelling variant (suggested by Claude)"
+}

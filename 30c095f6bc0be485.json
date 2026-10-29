@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:tiia@dance",
+  "p:tiia@jennina+tiia"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Tiia / Tiia: rule confirmed by Cédric: same name, same stated country, same city, no date clash"
+}

@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:david@david+laura",
+  "p:davide@davide+laura"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Same partner Laura; David / Davide is the same name in English and Italian spelling"
+}

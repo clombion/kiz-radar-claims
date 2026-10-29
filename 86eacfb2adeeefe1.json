@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:mayra+michael",
+  "c:michael+myra"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Michael y Mayra / Michael & Myra: spelling variant (suggested by Claude)"
+}

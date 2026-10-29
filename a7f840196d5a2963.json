@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:monica+viktor",
+  "c:monika+victor"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Monika & Victor / Viktor & Monica: spelling variant (suggested by Claude)"
+}

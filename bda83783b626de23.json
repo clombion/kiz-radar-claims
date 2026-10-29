@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:landry+wendy",
+  "c:landry+windy"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Landry & Windy / Landry & Wendy: spelling variant (suggested by Claude)"
+}

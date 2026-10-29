@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:sara@fanio+sara",
+  "p:sara@juninho+sara"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Sara / Sara: rule confirmed by Cédric: same name, same stated country, same city, no date clash"
+}

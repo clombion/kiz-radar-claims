@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:dwe+gabi",
+  "c:dwe+gaby"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Dwe & Gaby / Dwe & Gabi: spelling variant (suggested by Claude)"
+}

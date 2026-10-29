@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:fred@chiara+fred",
+  "p:fred@fred+morgane"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Fred-Nelson / Fred: confirmed by Cédric: Fred of Fred & Chiara is Fred-Nelson"
+}

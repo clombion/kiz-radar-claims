@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:vincenzo@ilaria+vincenzo",
+  "p:vincenzo@maria+vincenzo"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Vincenzo / Vincenzo: confirmed by Cédric: one Vincenzo, of Maria & Vincenzo and of Vincenzo & Ilaria"
+}

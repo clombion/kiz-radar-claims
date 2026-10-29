@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:daniel+miki",
+  "c:daniel+miky"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Daniel & Miki / DANIEL & MIKY: spelling variant (suggested by Claude)"
+}

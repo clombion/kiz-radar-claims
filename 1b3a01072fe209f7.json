@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:elhadj+jenah",
+  "c:elhadj+jenna"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Elhadj & Jenna / Elhadj & Jenah: spelling variant (suggested by Claude)"
+}

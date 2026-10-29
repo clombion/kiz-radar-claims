@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:didier@didier+manon",
+  "p:didier@didier+vanessa"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Didier / Didier: confirmed by Cédric: one Didier, with Manon and with Vanessa"
+}

@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:mrtecas+tasha",
+  "c:tasha+tecas"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Mr Tecas & Tasha / Tecas & Tasha: spelling variant (suggested by Claude)"
+}

@@ -1,0 +1,8 @@
+{
+ "field": "site",
+ "host": "kizomba.lt",
+ "instead_of": "recipe",
+ "then": "nothing",
+ "made_at": "2026-10-27T00:00:00+00:00",
+ "note": "its page gives its tickets no ids (decided by agent)"
+}

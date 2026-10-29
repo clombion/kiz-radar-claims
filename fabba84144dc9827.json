@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:quinn@dance",
+  "p:quinn@david+quinn"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Quinn / Quinn: rule confirmed by Cédric: solo record is the same person as in the couple (same name, same stated country, no clash)"
+}

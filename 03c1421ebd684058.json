@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:daniele+eleonara",
+  "c:daniele+eleonora"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Daniele & Eleonara / Daniele & Eleonora: spelling variant (suggested by Claude)"
+}

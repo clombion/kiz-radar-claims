@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:jhon+lea",
+  "c:john+lea"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "John & Lea / JHON&LEA: spelling variant (suggested by Claude)"
+}

@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:moorea@dance",
+  "p:moorea@ironmams+moorea"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Moorea / Moorea: rule confirmed by Cédric: same name, same stated country, same city, no date clash"
+}

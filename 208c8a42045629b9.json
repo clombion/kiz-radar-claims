@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:elena@elena+sergio",
+  "p:selena@selena+sergio"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Same partner Sergio; Elena / Selena is a spelling variant of the same partner"
+}

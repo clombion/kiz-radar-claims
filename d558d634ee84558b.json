@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:eden+ioury",
+  "c:eden+loury"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Ioury & Eden / Loury & Eden: spelling variant (suggested by Claude)"
+}

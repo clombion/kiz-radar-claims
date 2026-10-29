@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:federica+vito",
+  "c:federica+vitᴏ"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Vito & Federica / Vitᴏ & Federica: spelling variant (suggested by Claude)"
+}

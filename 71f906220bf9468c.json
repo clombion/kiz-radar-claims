@@ -1,0 +1,8 @@
+{
+ "field": "site",
+ "host": "www.tikello.com",
+ "instead_of": "recipe",
+ "then": "nothing",
+ "made_at": "2026-10-27T00:00:00+00:00",
+ "note": "its prices are shown in the visitor's currency, which changes between loads (decided by agent)"
+}

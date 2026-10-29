@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:alemana+ataca",
+  "c:ataca+laalemana"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "ATACA & ALEMANA / Ataca & La Alemana: spelling variant (suggested by Claude)"
+}

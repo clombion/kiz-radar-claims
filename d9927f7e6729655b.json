@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:monica@dance",
+  "p:monica@jorelle+monica"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Monica / Monica: rule confirmed by Cédric: same name, same stated country, same city, no date clash"
+}

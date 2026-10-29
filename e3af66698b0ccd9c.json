@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:christina@cedric+christina",
+  "p:christina@christina+david"
+ ],
+ "decision": "separate",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Christina / Christina: confirmed by Cédric: Christina of Christina & Cédric (Bergen) is not Christina of David & Christina (Lyon)"
+}

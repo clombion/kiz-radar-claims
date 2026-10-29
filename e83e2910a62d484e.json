@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:karolina+lukasz",
+  "c:karolina+łukasz"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Lukasz & Karolina / Karolina & Łukasz: spelling variant (suggested by Claude)"
+}

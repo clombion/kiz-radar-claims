@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "p:lavinia@armand+lavinia",
+  "p:lavinia@dance"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "LAVINIA / Lavinia: rule confirmed by Cédric: solo record is the same person as in the couple (same name, same stated country, no clash)"
+}

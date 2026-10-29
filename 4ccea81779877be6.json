@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:daddy+manuela",
+  "c:dady+manuela"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "DADY & MANUELA / Daddy & Manuela: spelling variant (suggested by Claude)"
+}

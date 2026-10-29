@@ -1,0 +1,10 @@
+{
+ "field": "merge",
+ "keys": [
+  "c:andrea+silvia",
+  "c:andreas+silvia"
+ ],
+ "decision": "merge",
+ "made_at": "2026-10-29T00:00:00+00:00",
+ "note": "Andrea & Silvia / Andreas & Silvia: confirmed by Cédric: same couple, different spelling"
+}
