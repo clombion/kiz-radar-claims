@@ -1,0 +1,8 @@
+{
+ "field": "place",
+ "city": "Amsterdam",
+ "country": "France",
+ "is_in": "NL",
+ "made_at": "2026-11-09T02:16:33+00:00",
+ "note": "Viva Latin Summer is at the Park Plaza Amsterdam Airport, in the Netherlands; the listing puts it under France, where Nominatim finds Île Amsterdam in the Indian Ocean."
+}

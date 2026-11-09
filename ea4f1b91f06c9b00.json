@@ -1,0 +1,8 @@
+{
+ "field": "place",
+ "city": "Porto",
+ "country": "France",
+ "is_in": "PT",
+ "made_at": "2026-11-09T02:16:33+00:00",
+ "note": "Porto Kizomba Festival is at the Golden Tulip Porto Gaia, by Porto in Portugal; the listing puts it under France, where Nominatim finds a village in Corsica."
+}
